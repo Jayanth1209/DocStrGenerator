@@ -1,4 +1,13 @@
 # Python 3.7
-
+def write_function_as_string(text_file: str,python_version:str) -> str:
+    with open(text_file,'r') as file:
+        content = file.read()
+    with open(text_file,'w') as file:
+        file.seek(0,0)
+        file.write(f"# Python {python_version}".rstrip('\r\n')+'\n'+\
+        content+'\n'+'# An elaborate, high quality docstring for the above function:'.rstrip('\r\n')+\
+        '\n'+'"""'.rstrip('\r\n'))
+    with open(text_file,'r') as file:
+        return file.read().replace('\n','\n')
 # An elaborate, high quality docstring for the above function:
 """
