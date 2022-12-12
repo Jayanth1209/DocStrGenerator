@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Engineer passionate about emerging tech and taming wild data into useful data. I am also an avid fanfiction reader and one day would likle to write by own Fiction Book.
+I'm a Data Engineer passionate about emerging tech and taming wild data into useful data. I am also an avid fanfiction reader and one day would likle to write my own Fiction Book.
 
 ## 🔗 Links
 [![Medium](https://img.shields.io/badge/Medium-sivachandan1996-black)](https://sivachandan1996.medium.com/)
