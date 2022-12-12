@@ -1,0 +1,16 @@
+
+This is a docstring.
+
+This function adds two numbers together.
+
+Parameters
+----------
+x : int
+    The first number.
+y : int
+    The second number.
+
+Returns
+-------
+int
+    The sum of the two numbers.
