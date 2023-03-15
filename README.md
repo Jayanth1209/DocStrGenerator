@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Engineer passionate about emerging tech and taming wild data into useful data. I am also an avid fanfiction reader and one day would likle to write my own Fiction Book.
+I'm a Data Engineer passionate about emerging tech and taming wild data into useful data. I am also an avid book reader and one day would likle to write my own Book.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-l-a58753230/)
@@ -57,5 +57,5 @@ To deploy this project run the following command inside the project folder
 ![](https://github.com/jayanth1209/DocStringGenerator/blob/7f0309f298faba5af416757a6fef6d5576c44284/extras/ezgif-1-63b26e4e16.gif)
 ## Support
 
-For support, email sivachandan1996@gmai.com
+For support, email jayanthlakkaraju12@gmail.com
 
